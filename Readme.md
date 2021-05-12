@@ -1,7 +1,7 @@
 # How to setup sass quickly
 ---
 
-## 1. Setup sass without js-framework using PARCEL <br><br>
+## 1. Setup sass using PARCEL <br><br>
 
 ### 1.1. Init project<br>
     npm init
