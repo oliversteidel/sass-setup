@@ -1,1 +1,16 @@
-$color: red;
+// breakpoints (recomment using em units!)
+$small: 37.5em; //600px
+$medium: 50em; //800px
+$large: 62.5em; //1000px
+$x-large: 81.25em; //1300px
+
+// colors
+$clr-n10: hsl(0, 0%, 10%);
+$clr-n20: hsl(0, 0%, 20%);
+$clr-n30: hsl(0, 0%, 30%);
+$clr-n40: hsl(0, 0%, 40%);
+$clr-n50: hsl(0, 0%, 50%);
+$clr-n60: hsl(0, 0%, 60%);
+$clr-n70: hsl(0, 0%, 70%);
+$clr-n80: hsl(0, 0%, 80%);
+$clr-n90: hsl(0, 0%, 90%);
