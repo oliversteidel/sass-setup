@@ -4,7 +4,8 @@ $medium: 50em; //800px
 $large: 62.5em; //1000px
 $x-large: 81.25em; //1300px
 
-// colors
+// colors (naming: $clr-{first letter of color-group}{lightness-value})
+// neutral
 $clr-n10: hsl(0, 0%, 10%);
 $clr-n20: hsl(0, 0%, 20%);
 $clr-n30: hsl(0, 0%, 30%);
