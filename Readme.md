@@ -31,7 +31,7 @@ installs parcel as Devdependency <br>
 
 ### 1.5. Run Parcel<br>
     npm run dev
-What will happen?
+
 - Parcel watches your changes to your index.html and main.scss
 - it creates a /dist folder and compiles your scss into css
 - it opens a dev-server
@@ -40,7 +40,7 @@ What will happen?
 ### 1.6. Ready for production<br>
 
     npm run build
-What will happen?
+
 - Parcel builds your projectfor production and optimizes the compiled css with autoprefixes, cssnano ,etc.
 - this is much slower than the "run dev" compiling 
 
